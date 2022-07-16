@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranjaali
-- 👀 I’m interested in c,C++ Programming
+- 👀 I’m interested in c,C++ ,Java Programming
 - 🌱 I’m currently learning Database Management System ,Data structures and Algorithm and Web Development
 - 💞️ I’m looking to collaborate on Website creation.
 - 📫 How to reach me pranjalisathe390@gmail.com
